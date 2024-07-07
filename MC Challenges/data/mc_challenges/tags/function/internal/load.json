@@ -1,0 +1,7 @@
+{
+    "values": [
+        "mc_challenges:gui/macro/page/interactive_items",
+        "mc_challenges:gui/macro/page/nav_bar2",
+        "mc_challenges:gui/macro/page/revoke_page_action"
+    ]
+}

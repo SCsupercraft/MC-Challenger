@@ -1,0 +1,1 @@
+$item replace entity @s inventory.8 with $(item18)[minecraft:custom_data={"gui":1b, "page":$(pageNumber)}, minecraft:hide_additional_tooltip={}, minecraft:item_name='$(itemName18)', minecraft:rarity="common"] 1

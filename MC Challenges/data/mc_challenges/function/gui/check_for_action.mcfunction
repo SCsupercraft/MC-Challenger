@@ -1,0 +1,2 @@
+execute store result score @s mc_challenges_gui_count if data entity @s Inventory[].components.minecraft:custom_data.gui
+execute unless score @s mc_challenges_gui_count matches 36 if entity @s[advancements={mc_challenges:load_page=true}] run function #mc_challenges:page_action

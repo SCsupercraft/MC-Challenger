@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "page loaded": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "mc_challenges:gui/load_page"
+    }
+}

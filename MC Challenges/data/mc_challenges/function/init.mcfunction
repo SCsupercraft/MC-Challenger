@@ -1,0 +1,1 @@
+execute unless data storage mc_challenges:data setup as @s run function mc_challenges:init/setup

@@ -1,0 +1,7 @@
+{
+    "values": [
+        "mc_challenges:gui/macro/click/interactive_items",
+        "mc_challenges:gui/macro/click/nav_bar2",
+        "mc_challenges:gui/macro/click/revoke_page_load"
+    ]
+}

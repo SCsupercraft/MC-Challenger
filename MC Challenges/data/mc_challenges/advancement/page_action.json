@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "page action": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "slots": {
+                    "empty": {
+                        "min": 1,
+                        "max": 36
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "mc_challenges:gui/check_for_action"
+    }
+}

@@ -1,0 +1,1 @@
+$execute if score @s mc_challenges_page = @s mc_challenges_loaded_page run function mc_challenges:gui/macro/click with storage mc_challenges:pages $(page)

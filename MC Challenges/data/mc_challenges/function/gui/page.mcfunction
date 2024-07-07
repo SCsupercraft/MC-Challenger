@@ -1,0 +1,1 @@
+$function mc_challenges:gui/macro/page with storage mc_challenges:pages $(page)

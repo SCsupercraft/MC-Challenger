@@ -1,0 +1,1 @@
+ $execute unless data entity @s Inventory[{Slot:11b,components:{"minecraft:custom_data":{gui:1b, page:$(pageNumber)}}}] run $(itemAction12)

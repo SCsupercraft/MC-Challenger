@@ -1,0 +1,9 @@
+$item replace entity @s hotbar.0 with $(placeholder)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_tooltip={}, minecraft:item_name='{"text":""}'] 1
+$item replace entity @s hotbar.1 with $(placeholder)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_tooltip={}, minecraft:item_name='{"text":""}'] 1
+$item replace entity @s hotbar.2 with $(placeholder)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_tooltip={}, minecraft:item_name='{"text":""}'] 1
+$item replace entity @s hotbar.3 with $(placeholder)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_tooltip={}, minecraft:item_name='{"text":""}'] 1
+$item replace entity @s hotbar.4 with $(placeholder)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_tooltip={}, minecraft:item_name='{"text":""}'] 1
+$item replace entity @s hotbar.5 with $(placeholder)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_tooltip={}, minecraft:item_name='{"text":""}'] 1
+$item replace entity @s hotbar.6 with $(placeholder)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_tooltip={}, minecraft:item_name='{"text":""}'] 1
+$item replace entity @s hotbar.7 with $(placeholder)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_tooltip={}, minecraft:item_name='{"text":""}'] 1
+$item replace entity @s hotbar.8 with $(placeholder)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_tooltip={}, minecraft:item_name='{"text":""}'] 1

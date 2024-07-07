@@ -1,0 +1,1 @@
+$item replace entity @s hotbar.6 with $(item7)[minecraft:custom_data={"gui":1b, "page":$(navBarPage)}, minecraft:hide_additional_tooltip={}, minecraft:item_name='$(itemName7)', minecraft:rarity="common"] 1

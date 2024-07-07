@@ -1,0 +1,1 @@
+scoreboard objectives remove tmp_cmtns
