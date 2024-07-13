@@ -1,1 +1,0 @@
-function mc_challenges:gui/create_category {item:"minecraft:grass_block",itemName:{"text":"World Settings"},page:2}

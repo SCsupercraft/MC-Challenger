@@ -1,0 +1,1 @@
+advancement revoke @s only mc_challenger:load_page

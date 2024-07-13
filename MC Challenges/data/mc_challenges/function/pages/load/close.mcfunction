@@ -1,1 +1,0 @@
-execute if score @s mc_challenges_page matches 0 run function mc_challenges:gui/close

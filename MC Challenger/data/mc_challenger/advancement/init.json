@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "exists": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "mc_challenger:init"
+    }
+}

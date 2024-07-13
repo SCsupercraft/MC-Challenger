@@ -1,0 +1,1 @@
+execute if predicate mc_challenger:say_difficulty_in_chat run say Difficulty!

@@ -1,0 +1,2 @@
+execute as @a[scores={mc_challenger_death_count=1..,mc_challenger_page=1..}, tag=!mc_challenger_killed_items_on_death] run function mc_challenger:gui/death
+execute as @a[scores={mc_challenger_death_count=1..,mc_challenger_page=1..}] unless entity @s[nbt={Health:0f}] run function mc_challenger:gui/death2

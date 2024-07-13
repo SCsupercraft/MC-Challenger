@@ -1,0 +1,1 @@
+return run function mc_challenger:init/cmtns with storage mc_challenger:data

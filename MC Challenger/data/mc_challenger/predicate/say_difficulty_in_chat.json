@@ -1,0 +1,9 @@
+{
+    "condition": "value_check",
+    "value": {
+        "type": "storage",
+        "storage": "mc_challenger:data",
+        "path": "challenges.say_difficulty_in_chat"
+    },
+    "range": 1
+}

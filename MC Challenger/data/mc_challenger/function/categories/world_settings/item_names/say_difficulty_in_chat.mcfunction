@@ -1,0 +1,2 @@
+$execute if predicate mc_challenger:say_difficulty_in_chat run data modify storage mc_challenger:pages $(path) set value {"text":"Disable Say Difficulty In Chat"}
+$execute unless predicate mc_challenger:say_difficulty_in_chat run data modify storage mc_challenger:pages $(path) set value {"text":"Enable Say Difficulty In Chat"}
