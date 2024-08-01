@@ -3,3 +3,4 @@
  
  Get it on 
  Modrinth: https://modrinth.com/datapack/mc-challenger
+ Curseforge: https://www.curseforge.com/minecraft/data-packs/mc-challenger
