@@ -7,6 +7,7 @@ scoreboard objectives add mc_challenger_loaded_navBar dummy
 scoreboard objectives add mc_challenger_gui_count dummy
 scoreboard objectives add mc_challenger_categories_count dummy
 scoreboard objectives add mc_challenger_death_count deathCount
+scoreboard objectives add mc_challenger_leave_count minecraft.custom:minecraft.leave_game
 
 # Setup Category Count
 

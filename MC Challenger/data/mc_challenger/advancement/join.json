@@ -1,0 +1,23 @@
+{
+    "criteria": {
+      "join": {
+        "trigger": "minecraft:tick",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "entity_scores",
+                        "scores": {
+                            "mc_challenger_leave_count": {
+                                "min": 1
+                            }
+                        },
+                        "entity": "this"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "mc_challenger:join"
+    }
+}
